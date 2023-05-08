@@ -22,7 +22,7 @@ The goal of UnrealGPT is to leverage the power of cutting-edge technologies to e
 
 ## Code Availability
 
-Please note that a portion of the code for UnrealGPT is currently under academic proprietorship through October 2024. During this period, the code is not available for public distribution or modification without explicit permission.
+Please note, a portion of the code for UnrealGPT is currently under academic proprietorship through October 2024. During this period, the code is not available for public distribution or modification without explicit permission.
 
 ## Installation and Usage
 
